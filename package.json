@@ -1,0 +1,26 @@
+{
+  "name": "scss-cubic-bezier",
+  "version": "1.0.0",
+  "description": "A list of SCSS variable of common cubic bezier formulas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmphry/scss-cubic-bezier.git"
+  },
+  "keywords": [
+    "scss",
+    "cubic",
+    "bezier",
+    "animation",
+    "transition"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmphry/scss-cubic-bezier/issues"
+  },
+  "homepage": "https://github.com/hmphry/scss-cubic-bezier#readme"
+}
